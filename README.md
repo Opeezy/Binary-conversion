@@ -1,2 +1,2 @@
 # Binary-conversion
-Converts binary string to integer and hexadecimal format.
+Simple tool to convert binary strings to their integer and hexadecimal forms.  
